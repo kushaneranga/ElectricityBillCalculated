@@ -1,4 +1,4 @@
-print("***Electric bill calculation***")
+print("**Electric bill calculation**")
 units = float(input("Number of Units (KWH): "))
 if units <= 50:
     amount = units * 5
